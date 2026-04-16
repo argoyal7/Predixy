@@ -8,7 +8,7 @@ PrediMaint is an AI-driven predictive maintenance dashboard using deep learning 
 - Vite
 - TypeScript
 - Tailwind CSS
-- shadcn/ui
+
 
 ## Getting Started
 
